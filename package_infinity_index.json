@@ -23,7 +23,7 @@
           ],
           "toolsDependencies": [
           ]
-        }
+        },
         {
           "name": "ESPgo",
           "architecture": "esp32",
