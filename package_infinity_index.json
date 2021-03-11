@@ -1,0 +1,46 @@
+{
+  "packages": [
+    {
+      "name": "Infinity",
+      "maintainer": "Defiance Digital",
+      "websiteURL": "http://www.defiancedigital.us/",
+      "email": "brad@defiancedigital.us",
+      "help": {
+        "online": "https://www.avrgo.us"
+      },
+      "platforms": [
+        {
+          "name": "AVRgo",
+          "architecture": "avr",
+          "version": "2.1.5",
+          "category": "Contributed",
+          "url": "https://github.com/DefianceDigital/Inficore/raw/master/AVRgo-2.1.5.zip",
+          "archiveFileName": "AVRgo-2.1.5.zip",
+          "checksum": "SHA-256:252E3656E4C4E5C79752F35641275E58F185A9097B8CC65650070C91DEC40D04",
+          "size": "3892189",
+          "boards": [
+            {"name": "AVRgo-Infinity"}
+          ],
+          "toolsDependencies": [
+          ]
+        }
+        {
+          "name": "ESPgo",
+          "architecture": "esp32",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/DefianceDigital/Inficore/raw/master/ESPgo-1.0.1.zip",
+          "archiveFileName": "ESPgo-1.0.1.zip",
+          "checksum": "SHA-256:C1086944F75C173A4E65D0639E2DC6BB4D2E83A573572C88B2F4E82F2CB83A19",
+          "size": "35830817",
+          "boards": [
+            {"name": "ESPgo-Infinity"}
+          ],
+          "toolsDependencies": [
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
